@@ -1,5 +1,17 @@
 **Design Patterns with examples in Java**
 
+![picture](https://img.shields.io/badge/-***%20Design%20Patterns%20***-brightgreen)
+![picture](https://img.shields.io/badge/-builder%20pattern-9cf.svg)
+![picture](https://img.shields.io/badge/-singleton-%23A2FF9F.svg)
+![picture](https://img.shields.io/badge/-Static%20factory-green.svg)
+![picture](https://img.shields.io/badge/-Observer-%23CC8500.svg)
+![picture](https://img.shields.io/badge/-Strategy-%2300CCB8.svg)
+![picture](https://img.shields.io/badge/-Adapter-%231C2DFF.svg)
+![picture](https://img.shields.io/badge/-Facade-%23FF33C7.svg)
+![picture](https://img.shields.io/badge/-Decorator-%2337E8FB.svg)
+
+
+
 Table of contents.
 
 1. Creational design patterns
