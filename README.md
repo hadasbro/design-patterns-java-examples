@@ -1510,4 +1510,6 @@ This is how can we use Decorator Design Pattern to dynamically wrap any object/l
 * * *
 *Other Decorator Pattern examples in Java API:* `java.io.InputStream`, `java.io.FileInputStream`, other input streams.
 
----
+## Authors
+
+* **Slawomir Hadas** - *author* - [Github](https://github.com/hadasbro)
